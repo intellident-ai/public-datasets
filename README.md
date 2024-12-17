@@ -1,4 +1,4 @@
-# public-datasets
+# public-dataset
 
 >A repository for dataset publishing. The datasets have been organized according to 
 dental components, focused by different research carried out within this project. 
